@@ -28,4 +28,3 @@ Features:
     Puppeteer library: npm install puppeteer
     An active internet connection
 
-Note: Always ensure you have permission to scrape data from websites and respect the terms of service, robots.txt, and any other legal or ethical guidelines when using this or any other scraping tool.
